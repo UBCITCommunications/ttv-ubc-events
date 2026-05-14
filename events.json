@@ -1,6 +1,105 @@
 {
-  "generated_at": "2026-05-14T23:02:20.064908+00:00",
+  "generated_at": "2026-05-14T23:04:04.125137+00:00",
   "window_days": 7,
-  "count": 0,
-  "events": []
+  "count": 7,
+  "events": [
+    {
+      "id": 10021173,
+      "title": "UBC Farm Community Workshops",
+      "url": "https://events.ubc.ca/event/ubc-farm-community-workshops/2026-05-14/",
+      "start": "2026-05-14 18:00:00",
+      "end": "2026-05-14 20:00:00",
+      "all_day": false,
+      "cost": "",
+      "venue": "UBC Farm",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/03/Spring-workshops-2026-1-mB-version-1024x576.jpg",
+      "type": "Workshop",
+      "summary": "The UBC Farm offers a robust lineup of 50+ workshops per year, on a wide range of topics, such as gardening, cooking, baking, food preservation, herbs, plant walks, foraging, and more. In our upcoming series, in addition to popular…"
+    },
+    {
+      "id": 78013,
+      "title": "Growing Edibles In A Vertical Garden",
+      "url": "https://events.ubc.ca/event/growing-edibles-in-a-vertical-garden/",
+      "start": "2026-05-14 18:00:00",
+      "end": "2026-05-14 20:00:00",
+      "all_day": false,
+      "cost": "",
+      "venue": "UBC Farm",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/05-14-26-Growing-Edibles-in-a-Vertical-Garden-1-e1776098614117.jpg",
+      "type": "Workshop",
+      "summary": "Transform fences, walls, and balconies into thriving edible gardens! In this workshop, we’ll explore the opportunities and benefits of vertical gardening in small urban spaces. Learn about different systems and techniques for growing…"
+    },
+    {
+      "id": 77771,
+      "title": "AI for Job Application Writing",
+      "url": "https://events.ubc.ca/event/ai-for-job-application-writing/",
+      "start": "2026-05-19 11:00:00",
+      "end": "2026-05-19 12:00:00",
+      "all_day": false,
+      "cost": "",
+      "venue": "See Description",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/Drop-in-Career-Advising-For-International-Students_New-scaled-e1776282423303-1024x577.jpg",
+      "type": "Workshop",
+      "summary": "Learn how to effectively use an AI tool to aid your job search journey. In this workshop, we will cover: How to revamp your resume How to craft a tailored cover letter How to do mock interviews Join our Career Development Specialist for…"
+    },
+    {
+      "id": 10019164,
+      "title": "UBC CPD: Midwifery Documentation Workshop (Online)",
+      "url": "https://events.ubc.ca/event/ubc-cpd-midwifery-documentation-workshop-online/2026-05-19/",
+      "start": "2026-05-19 12:00:00",
+      "end": "2026-05-19 13:00:00",
+      "all_day": false,
+      "cost": "Cost Varies.",
+      "venue": "See Description",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2025/10/Event-Calendar-new-13-1024x576.png",
+      "type": "Event",
+      "summary": "Effective documentation is a critical component of midwifery care. Is your documentation clearly detailing your care? Are you leaving an intellectual footprint that is comprehensive and complete? Would some guidance help to ensure your…"
+    },
+    {
+      "id": 79240,
+      "title": "Who is Heard? Age, Gender, Belonging, and ‘Genius’ Music",
+      "url": "https://events.ubc.ca/event/who-is-heard-age-gender-belonging-and-genius-music/",
+      "start": "2026-05-20 11:00:00",
+      "end": "2026-05-20 12:00:00",
+      "all_day": false,
+      "cost": "",
+      "venue": "Green College",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/UBC-Events-Image_1280x720-15-1024x576.png",
+      "type": "Concert",
+      "summary": "This lecture-recital, as part of Dr Judith Valerie Engel’s doctoral degree requirement, explores how ideas of ‘genius,’ meritocracy, and success shape—and often constrain—the careers of contemporary women composers. Drawing on her thesis…"
+    },
+    {
+      "id": 10021265,
+      "title": "Chung | Lind Gallery Weekly Drop-In Tour",
+      "url": "https://events.ubc.ca/event/chung-lind-gallery-weekly-drop-in-tour/2026-05-20/",
+      "start": "2026-05-20 13:30:00",
+      "end": "2026-05-20 14:30:00",
+      "all_day": false,
+      "cost": "Free",
+      "venue": "Irving K. Barber Learning Centre",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/UBCLibrary_GalleryTours_Mar2026_digitalsignage_1280x720_notext2-1024x576.jpg",
+      "type": "Exhibit",
+      "summary": "Join us at our weekly drop-in tour through the Chung | Lind Gallery every Wednesday at 1:30 p.m. PT. Led by Rare Books and Special Collections and the University Archives archivists, tours can take up to 60 minutes and begin in the Gallery…"
+    },
+    {
+      "id": 78547,
+      "title": "Portraits from A Fire: Film Screening",
+      "url": "https://events.ubc.ca/event/portraits-from-a-fire-film-screening/",
+      "start": "2026-05-20 16:30:00",
+      "end": "2026-05-20 19:30:00",
+      "all_day": false,
+      "cost": "Free",
+      "venue": "Gateway Health Building",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/portraits_from_a_fire_thumbnail_16x9_widescreen_us-2687347465-1024x576.jpg",
+      "type": "Event",
+      "summary": "The School of Nursing’s Indigenous Nursing Collective and Nursing Undergraduate Society extend a warm invitation to the screening of the award-winning Portraits from a Fire , a film by Trevor Mack . A post-screening Q&A will feature…"
+    }
+  ]
 }
