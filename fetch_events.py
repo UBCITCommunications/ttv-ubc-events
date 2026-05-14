@@ -16,6 +16,15 @@ DAYS_AHEAD = 7
 PER_PAGE = 50
 MAX_PAGES = 8   # safety cap — 8 * 50 = 400 events scanned
 
+# WordPress sites commonly block the default python-requests user-agent.
+# Use a normal-looking browser UA so the API treats us like any other reader.
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/120.0 Safari/537.36 UBC-Signage-Bot/1.0",
+    "Accept": "application/json",
+}
+
 
 def strip_html(html):
     if not html:
@@ -71,7 +80,7 @@ def fetch_page(page, start_date):
         "start_date": start_date,
         "status": "publish",
     }
-    r = requests.get(API_BASE, params=params, timeout=30)
+    r = requests.get(API_BASE, params=params, headers=HEADERS, timeout=30)
     r.raise_for_status()
     return r.json()
 
