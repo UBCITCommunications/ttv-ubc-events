@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-15T02:57:36.605591+00:00",
+  "generated_at": "2026-05-15T15:11:33.807292+00:00",
   "window_days": 14,
-  "count": 19,
+  "count": 21,
   "events": [
     {
       "id": 77771,
@@ -268,6 +268,34 @@
       "image": "https://events.ubc.ca/wp-content/uploads/2026/05/Impunity-Event-Banner-1024x575.png",
       "type": "Event",
       "summary": "The world is in the throes of multiple crises, from ongoing genocide and settler colonial violence, to evolving forms of authoritarian governance and imperial warfare. The theme of ‘impunity’ has become part of mainstream political discourse as both cause and effect of the current international (dis)order. What are the psycho-political and affective dimensions of impunity? How do performances of impunity impact communities and political institutions? What is the political function of impunity…"
+    },
+    {
+      "id": 75527,
+      "title": "UBC CPD: BC Rural Health Conference RHC 2026",
+      "url": "https://events.ubc.ca/event/ubc-cpd-bc-rural-health-conference-rhc-2026/",
+      "start": "2026-05-29 00:00:00",
+      "end": "2026-05-31 23:59:59",
+      "all_day": true,
+      "cost": "See event website",
+      "venue": "See Description",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/02/Event-Calendar-new-4-1-1024x576.png",
+      "type": "Event",
+      "summary": "The BC Rural Health Conference is heading back to Northern BC on the ancestral, unceded territory of the Lheidli T’enneh First Nation in Prince George. Hosted by the Rural Coordination Centre of BC (RCCbc) with support from the Joint Standing Committee on Rural Issues (JSC), this conference offers rural health professionals a space to learn, connect and collaborate. With a focus on the unique opportunities and challenges of rural practice, it combines high-quality education with a strong sense…"
+    },
+    {
+      "id": 75354,
+      "title": "Branch for Global Surgical Care Global Surgery Symposium Day",
+      "url": "https://events.ubc.ca/event/branch-for-global-surgical-care-global-surgery-symposium-day/",
+      "start": "2026-05-29 08:00:00",
+      "end": "2026-05-29 15:00:00",
+      "all_day": false,
+      "cost": "",
+      "venue": "Hybrid Online/Virtual and In-Person &#8211; See Description",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/02/GlobalSurgeryDay2026_1280x720-1024x576.jpg",
+      "type": "Event",
+      "summary": "This event brings together learners, faculty, partners, and global surgery practitioners from across British Columbia and around the world. Join us as we: Showcase projects from our educational program candidates Highlight Global Surgery Lab research and activities with a session led by Drs. Emilie Joos and Shahrzad Joharifard Feature global surgery initiatives at UBC and throughout BC Honour Dr. Robert Taylor, founder of the Branch and a pioneer in global surgical care This event welcomes:…"
     }
   ]
 }
