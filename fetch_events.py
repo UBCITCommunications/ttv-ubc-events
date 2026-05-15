@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Fetches upcoming UBC events from events.ubc.ca, filters to the ones suitable
-for signage (next 7 days, has image, in-person), and writes events.json.
+for signage (next 7 days, has image, in-person or online), and writes events.json.
 """
 import json
 import re
@@ -12,7 +12,7 @@ import requests
 
 
 API_BASE = "https://events.ubc.ca/wp-json/tribe/events/v1/events"
-DAYS_AHEAD = 7
+DAYS_AHEAD = 14
 PER_PAGE = 50
 MAX_PAGES = 8   # safety cap — 8 * 50 = 400 events scanned
 
@@ -121,13 +121,9 @@ def main():
         if not img_url:
             continue
 
-        # Skip virtual / online-only events
-        if e.get("is_virtual"):
-            continue
+# Capture venue info (needed for the output record below)
         venue = e.get("venue") or {}
         venue_name = venue.get("venue", "") if isinstance(venue, dict) else ""
-        if "online" in venue_name.lower() or "virtual" in venue_name.lower():
-            continue
 
         # Must start within our window
         try:
