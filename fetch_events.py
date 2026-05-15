@@ -152,7 +152,7 @@ def main():
             "city":     venue.get("city", "") if isinstance(venue, dict) else "",
             "image":    img_url,
             "type":     event_type(e.get("categories")),
-            "summary":  truncate_at_word(strip_html(e.get("description", "")), 240),
+            "summary":  truncate_at_word(strip_html(e.get("description", "")), 500),
         }
         filtered.append(slim)
 
