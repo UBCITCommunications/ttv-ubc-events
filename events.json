@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-15T15:11:33.807292+00:00",
+  "generated_at": "2026-05-16T14:21:01.323261+00:00",
   "window_days": 14,
-  "count": 21,
+  "count": 22,
   "events": [
     {
       "id": 77771,
@@ -296,6 +296,20 @@
       "image": "https://events.ubc.ca/wp-content/uploads/2026/02/GlobalSurgeryDay2026_1280x720-1024x576.jpg",
       "type": "Event",
       "summary": "This event brings together learners, faculty, partners, and global surgery practitioners from across British Columbia and around the world. Join us as we: Showcase projects from our educational program candidates Highlight Global Surgery Lab research and activities with a session led by Drs. Emilie Joos and Shahrzad Joharifard Feature global surgery initiatives at UBC and throughout BC Honour Dr. Robert Taylor, founder of the Branch and a pioneer in global surgical care This event welcomes:…"
+    },
+    {
+      "id": 77498,
+      "title": "Job Search Strategies",
+      "url": "https://events.ubc.ca/event/job-search-strategies-13/",
+      "start": "2026-05-29 13:00:00",
+      "end": "2026-05-29 14:00:00",
+      "all_day": false,
+      "cost": "",
+      "venue": "See Description",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/Workshop-Job-Search-Strategies-1024x683.jpg",
+      "type": "Workshop",
+      "summary": "Learn the best ways to look for work online and in-person, and decide which strategies will help you to access the hidden job market."
     }
   ]
 }
