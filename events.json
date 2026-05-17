@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-16T14:21:01.323261+00:00",
+  "generated_at": "2026-05-17T14:24:37.347340+00:00",
   "window_days": 14,
-  "count": 22,
+  "count": 25,
   "events": [
     {
       "id": 77771,
@@ -310,6 +310,48 @@
       "image": "https://events.ubc.ca/wp-content/uploads/2026/04/Workshop-Job-Search-Strategies-1024x683.jpg",
       "type": "Workshop",
       "summary": "Learn the best ways to look for work online and in-person, and decide which strategies will help you to access the hidden job market."
+    },
+    {
+      "id": 10020085,
+      "title": "UBC CPD: Implants and IUDs: Comparing and Inserting Long Acting Reversible Contraceptives (LARC)",
+      "url": "https://events.ubc.ca/event/ubc-cpd-implants-and-iuds-comparing-and-inserting-long-acting-reversible-contraceptives-larc-4/2026-05-30/",
+      "start": "2026-05-30 09:00:00",
+      "end": "2026-05-30 15:00:00",
+      "all_day": false,
+      "cost": "Cost Varies.",
+      "venue": "See Description",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/02/Event-Calendar-new-3-1024x576.png",
+      "type": "Event",
+      "summary": "Join us in person on March 7, 2026 at UBC Robson Square in Vancouver, BC for the Implants and IUDs: Comparing and Inserting Long Acting Reversible Contraceptives (LARC) workshops. Explore the current contraceptive landscape, the unmet needs in contraception, and gain insights into the benefits and risks of various contraceptive options in Canada. Participants will be able to: Describe the contraceptive landscape and unmet needs for contraception in Canada Compare the benefits and risks of the…"
+    },
+    {
+      "id": 10021351,
+      "title": "Kids’ Story Time at UBC Bookstore",
+      "url": "https://events.ubc.ca/event/kids-story-time-at-ubc-bookstore/2026-05-30/",
+      "start": "2026-05-30 13:00:00",
+      "end": "2026-05-30 14:00:00",
+      "all_day": false,
+      "cost": "Free",
+      "venue": "UBC Bookstore",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/KidsStoryTime1-1280x720px-1024x576.png",
+      "type": "Event",
+      "summary": "The UBC Bookstore is pleased to invite you for Kids’ Story Time, on the last Saturday of every month. Arrive early for free coffee and hot chocolate from The Corner Store, then settle in for Kids’ Story Time in our children’s book area. All are welcome to enjoy this free, family event. No registration is required. Our next Kids’ Story Time is: Saturday, April 25, from 1:00 – 2:00pm We look forward to seeing you there! Upcoming dates: Saturday, April 25 Saturday, May 30 Saturday, June 27…"
+    },
+    {
+      "id": 67332,
+      "title": "The Grand Finale of Our 100th Anniversary Celebrations!",
+      "url": "https://events.ubc.ca/event/the-grand-finale-of-our-100th-anniversary-celebrations/",
+      "start": "2026-05-30 19:30:00",
+      "end": "2026-05-30 21:30:00",
+      "all_day": false,
+      "cost": "$35 – $100",
+      "venue": "Old Auditorium",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2025/08/05.30_OPERA_100YearsFINALE_1280x720-1024x576.jpg",
+      "type": "Concert",
+      "summary": "Simone Osborne soprano Gordon Bintner bass-baritone Gordon Gerrard conductor Members of the Vancouver Opera Orchestra Opera West and UBC Opera present two internationally acclaimed Canadian singers in concert. UBC Alumna, Soprano, Simone Osborne and bass-baritone, Gordon Bintner. Canadian conductor, Gordon Gerrard and members of the Vancouver Opera Orchestra join them in an evening of opera, operetta and musical theatre. Your support and donations ensure UBC Opera and the Old Auditorium will…"
     }
   ]
 }
