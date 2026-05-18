@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-17T14:24:37.347340+00:00",
+  "generated_at": "2026-05-18T16:20:45.897558+00:00",
   "window_days": 14,
-  "count": 25,
+  "count": 27,
   "events": [
     {
       "id": 77771,
@@ -352,6 +352,34 @@
       "image": "https://events.ubc.ca/wp-content/uploads/2025/08/05.30_OPERA_100YearsFINALE_1280x720-1024x576.jpg",
       "type": "Concert",
       "summary": "Simone Osborne soprano Gordon Bintner bass-baritone Gordon Gerrard conductor Members of the Vancouver Opera Orchestra Opera West and UBC Opera present two internationally acclaimed Canadian singers in concert. UBC Alumna, Soprano, Simone Osborne and bass-baritone, Gordon Bintner. Canadian conductor, Gordon Gerrard and members of the Vancouver Opera Orchestra join them in an evening of opera, operetta and musical theatre. Your support and donations ensure UBC Opera and the Old Auditorium will…"
+    },
+    {
+      "id": 10021176,
+      "title": "UBC Farm Community Workshops",
+      "url": "https://events.ubc.ca/event/ubc-farm-community-workshops/2026-05-31/",
+      "start": "2026-05-31 13:30:00",
+      "end": "2026-05-31 15:00:00",
+      "all_day": false,
+      "cost": "",
+      "venue": "UBC Farm",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/03/Spring-workshops-2026-1-mB-version-1024x576.jpg",
+      "type": "Workshop",
+      "summary": "The UBC Farm offers a robust lineup of 50+ workshops per year, on a wide range of topics, such as gardening, cooking, baking, food preservation, herbs, plant walks, foraging, and more. In our upcoming series, in addition to popular favorites, such as Sourdough Baking, Art of Cheese, and Spring Foraging, we also have several special offerings, including a “Growing In Small Spaces” Short Course , a series of Thursday evening gardening / growing workshops , Dim Sum & Live Jazz , and Weekly…"
+    },
+    {
+      "id": 78019,
+      "title": "Ba Zhang (Chinese Leaf Wrapped Dumpling): A Dragon Boat Festival Tradition",
+      "url": "https://events.ubc.ca/event/ba-zhang-chinese-leaf-wrapped-dumpling-a-dragon-boat-festival-tradition/",
+      "start": "2026-05-31 13:30:00",
+      "end": "2026-05-31 15:00:00",
+      "all_day": false,
+      "cost": "",
+      "venue": "UBC Farm",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/05-31-26-Ba-Zhang-Chinese-Leaf-Wrapped-Dumpling-e1776098529757-1024x577.jpg",
+      "type": "Workshop",
+      "summary": "Ba Zhang (rice dumplings) are time capsules of history — wrapped, tied, and passed down through generations. This workshop guides participants through the cultural roots of the Dragon Boat Festival, the symbolism of ingredients, and the precise techniques of wrapping and tying Ba Zhang by hand. Expect stories of family kitchens, regional variations, and the quiet craftsmanship behind this deeply nostalgic dish. Christopher is a chef-educator, serial entrepreneur, and TV host with over a decade…"
     }
   ]
 }
