@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-18T16:20:45.897558+00:00",
+  "generated_at": "2026-05-19T16:16:43.675774+00:00",
   "window_days": 14,
-  "count": 27,
+  "count": 30,
   "events": [
     {
       "id": 77771,
@@ -380,6 +380,48 @@
       "image": "https://events.ubc.ca/wp-content/uploads/2026/04/05-31-26-Ba-Zhang-Chinese-Leaf-Wrapped-Dumpling-e1776098529757-1024x577.jpg",
       "type": "Workshop",
       "summary": "Ba Zhang (rice dumplings) are time capsules of history — wrapped, tied, and passed down through generations. This workshop guides participants through the cultural roots of the Dragon Boat Festival, the symbolism of ingredients, and the precise techniques of wrapping and tying Ba Zhang by hand. Expect stories of family kitchens, regional variations, and the quiet craftsmanship behind this deeply nostalgic dish. Christopher is a chef-educator, serial entrepreneur, and TV host with over a decade…"
+    },
+    {
+      "id": 79066,
+      "title": "NeuroFuture: Conversations on Women Advancing Neuroscience Worldwide (Brain, Technology, and Ethics)",
+      "url": "https://events.ubc.ca/event/neurofuture-conversations-on-women-advancing-neuroscience-worldwide-brain-technology-and-ethics/",
+      "start": "2026-06-01 12:00:00",
+      "end": "2026-06-01 13:30:00",
+      "all_day": false,
+      "cost": "Free",
+      "venue": "See Description",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/IBI-WWN-UBC-Events-1024x576.png",
+      "type": "Lecture",
+      "summary": "Join us for the second session of NeuroFuture: Conversations on Women Advancing Neuroscience Worldwide as we advance the dialogue on the intersections of neuroscience, emerging technologies, and ethical considerations on current developments and future implications. Everyone is welcome! Register here for free to receive the webinar details: https://www.internationalbraininitiative.org/events/neurofutureconversations2026 FEATURED SPEAKERS Jennifer A. Chandler, LLM, FCAHS , University of Ottawa,…"
+    },
+    {
+      "id": 79118,
+      "title": "UBC CPD: Crossing the Placenta: Integrating New Evidence Into Everyday Maternity Care",
+      "url": "https://events.ubc.ca/event/ubc-cpd-crossing-the-placenta-integrating-new-evidence-into-everyday-maternity-care/",
+      "start": "2026-06-01 18:30:00",
+      "end": "2026-06-01 20:00:00",
+      "all_day": false,
+      "cost": "Free",
+      "venue": "Online/Virtual Event",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/Event-Calendar-new-7-1024x576.png",
+      "type": "Event",
+      "summary": "Stay current with key updates in maternity care. In partnership with the Perinatal Community of Practice, we’re pleased to offer this webinar reviewing recent updates in maternity care, including gestational diabetes, intrahepatic cholestasis of pregnancy and umbilical cord management."
+    },
+    {
+      "id": 79169,
+      "title": "PREVENT-AMR Symposium",
+      "url": "https://events.ubc.ca/event/prevent-amr-symposium/",
+      "start": "2026-06-02 00:00:00",
+      "end": "2026-06-02 23:59:59",
+      "all_day": true,
+      "cost": "Free",
+      "venue": "BC Children&#8217;s Hospital Research Institute",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/UBC-events-1280x720-1-1024x576.png",
+      "type": "Event",
+      "summary": "The PREVENT-AMR Symposium will bring together researchers across BC, alongside clinicians and trainees, to share the latest developments and foster collaboration in antimicrobial resistance (AMR) and One Health initiatives. The symposium will feature keynote speakers, trainee presentations, interactive discussions and networking opportunities. Call for Abstracts Trainees are invited to submit abstracts on all topics relevant to antimicrobial resistance research across any of the One Health…"
     }
   ]
 }
