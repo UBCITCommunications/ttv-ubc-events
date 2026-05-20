@@ -1,36 +1,8 @@
 {
-  "generated_at": "2026-05-19T16:16:43.675774+00:00",
+  "generated_at": "2026-05-20T16:22:32.289912+00:00",
   "window_days": 14,
   "count": 30,
   "events": [
-    {
-      "id": 77771,
-      "title": "AI for Job Application Writing",
-      "url": "https://events.ubc.ca/event/ai-for-job-application-writing/",
-      "start": "2026-05-19 11:00:00",
-      "end": "2026-05-19 12:00:00",
-      "all_day": false,
-      "cost": "",
-      "venue": "See Description",
-      "city": "",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/Drop-in-Career-Advising-For-International-Students_New-scaled-e1776282423303-1024x577.jpg",
-      "type": "Workshop",
-      "summary": "Learn how to effectively use an AI tool to aid your job search journey. In this workshop, we will cover: How to revamp your resume How to craft a tailored cover letter How to do mock interviews Join our Career Development Specialist for some tips on enhancing your career journey using AI."
-    },
-    {
-      "id": 10019164,
-      "title": "UBC CPD: Midwifery Documentation Workshop (Online)",
-      "url": "https://events.ubc.ca/event/ubc-cpd-midwifery-documentation-workshop-online/2026-05-19/",
-      "start": "2026-05-19 12:00:00",
-      "end": "2026-05-19 13:00:00",
-      "all_day": false,
-      "cost": "Cost Varies.",
-      "venue": "See Description",
-      "city": "",
-      "image": "https://events.ubc.ca/wp-content/uploads/2025/10/Event-Calendar-new-13-1024x576.png",
-      "type": "Event",
-      "summary": "Effective documentation is a critical component of midwifery care. Is your documentation clearly detailing your care? Are you leaving an intellectual footprint that is comprehensive and complete? Would some guidance help to ensure your record meets standards? Would you like to workshop with peers to refresh? If you can use some support, or just want to ensure you are documenting to standard, join us for this online small group workshop. There are three group Zoom workshops and one 45-minute…"
-    },
     {
       "id": 79240,
       "title": "Who is Heard? Age, Gender, Belonging, and ‘Genius’ Music",
@@ -102,6 +74,20 @@
       "summary": "Join us for the next talk in the Family Practice Oncology Network (FPON) Webinar Series on early onset cancer with Dr. Arkhjamil Angeles."
     },
     {
+      "id": 82757,
+      "title": "A Reading and Conversation in Celebration of Daphne Marlatt (Doctor of Letters, honoris causa)",
+      "url": "https://events.ubc.ca/event/a-reading-and-conversation-in-celebration-of-daphne-marlatt-doctor-of-letters-honoris-causa/",
+      "start": "2026-05-21 17:00:00",
+      "end": "2026-05-21 18:30:00",
+      "all_day": false,
+      "cost": "",
+      "venue": "Buchanan Tower",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/Untitled-design-1-1024x576.png",
+      "type": "Reunion",
+      "summary": "Please join the UBC Department of English Language & Literatures in celebrating Daphne Marlatt on the occasion of the awarding of an Honourary Degree (Doctor of Letters, honoris causa ). We are thrilled to be able to recognize the career of this distinguished poet, critic, public intellectual, and teacher with an intimate conversation and reading in BUTO. Let’s welcome this 1964 alumna home! Event: “ A Reading and Conversation in Celebration of Daphne Marlatt . ” May 21 from 5:00-6:15 (Buchanan…"
+    },
+    {
       "id": 75409,
       "title": "UBC CPD: Rural POCUS Rounds: Intro to Nerve Blocks",
       "url": "https://events.ubc.ca/event/ubc-cpd-rural-pocus-rounds-intro-to-nerve-blocks/",
@@ -156,20 +142,6 @@
       "image": "https://events.ubc.ca/wp-content/uploads/2026/04/Heat-webinar-UBC-Events-1024x576.png",
       "type": "Event",
       "summary": "This webinar will focus on the health effects of extreme heat on pregnant people and fetuses across climates and contexts, as well as the frameworks clinicians can use to address heat risks. Presenter: Caroline Li-Maloney , MSc. PhD Candidate, Human and Environmental Physiology Research Unit (HEPRU) at the University of Ottawa. Register here ."
-    },
-    {
-      "id": 10019165,
-      "title": "UBC CPD: Midwifery Documentation Workshop (Online)",
-      "url": "https://events.ubc.ca/event/ubc-cpd-midwifery-documentation-workshop-online/2026-05-26/",
-      "start": "2026-05-26 12:00:00",
-      "end": "2026-05-26 13:00:00",
-      "all_day": false,
-      "cost": "Cost Varies.",
-      "venue": "See Description",
-      "city": "",
-      "image": "https://events.ubc.ca/wp-content/uploads/2025/10/Event-Calendar-new-13-1024x576.png",
-      "type": "Event",
-      "summary": "Effective documentation is a critical component of midwifery care. Is your documentation clearly detailing your care? Are you leaving an intellectual footprint that is comprehensive and complete? Would some guidance help to ensure your record meets standards? Would you like to workshop with peers to refresh? If you can use some support, or just want to ensure you are documenting to standard, join us for this online small group workshop. There are three group Zoom workshops and one 45-minute…"
     },
     {
       "id": 79158,
@@ -422,6 +394,34 @@
       "image": "https://events.ubc.ca/wp-content/uploads/2026/05/UBC-events-1280x720-1-1024x576.png",
       "type": "Event",
       "summary": "The PREVENT-AMR Symposium will bring together researchers across BC, alongside clinicians and trainees, to share the latest developments and foster collaboration in antimicrobial resistance (AMR) and One Health initiatives. The symposium will feature keynote speakers, trainee presentations, interactive discussions and networking opportunities. Call for Abstracts Trainees are invited to submit abstracts on all topics relevant to antimicrobial resistance research across any of the One Health…"
+    },
+    {
+      "id": 78513,
+      "title": "Michif Language, its revitalization, and implications for the Metis Nation with Reid Hala",
+      "url": "https://events.ubc.ca/event/michif-language-its-revitalization-and-implications-for-the-metis-nation-with-reid-hala/",
+      "start": "2026-06-02 10:00:00",
+      "end": "2026-06-02 11:30:00",
+      "all_day": false,
+      "cost": "Free",
+      "venue": "Online/Virtual Event",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/602-banner-1024x576.png",
+      "type": "Event",
+      "summary": "Join featured speaker Reid Hala for an engaging webinar exploring the vital role of Michif language(s) in shaping Métis identity, culture, and wellbeing across their traditional homeland. Discover how Michif carries generations of knowledge, connection, and resilience, making it central to the strength of Métis communities. The session will also highlight inspiring, community-driven efforts to revitalize Michif and ensure it thrives for future generations."
+    },
+    {
+      "id": 82828,
+      "title": "Treasury Management: Inside the Corporate Finance Engine",
+      "url": "https://events.ubc.ca/event/treasury-management-inside-the-corporate-finance-engine/",
+      "start": "2026-06-02 17:30:00",
+      "end": "2026-06-02 19:00:00",
+      "all_day": false,
+      "cost": "",
+      "venue": "See Description",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/EC-Treasury-Management-1024x580.png",
+      "type": "Workshop",
+      "summary": "Treasury Management: Inside the Corporate Finance Engine Hosted by AFP Vancouver – UBC Campus Chapter Launch Time: 5:30 pm to 7:00 pm Date: June 2nd Location: Bruce Birmingham Undergraduate Centre, UBC Sauder Corporate treasury teams manage billions in liquidity, capital, and financial risk — yet few students understand the scope of this function or the career opportunities it offers. Join the Association for Financial Professionals (AFP) Vancouver for the official launch of the UBC Campus…"
     }
   ]
 }
