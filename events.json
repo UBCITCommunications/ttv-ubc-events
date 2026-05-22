@@ -1,22 +1,8 @@
 {
-  "generated_at": "2026-05-21T16:15:24.544368+00:00",
+  "generated_at": "2026-05-22T15:47:20.509708+00:00",
   "window_days": 14,
-  "count": 31,
+  "count": 32,
   "events": [
-    {
-      "id": 82757,
-      "title": "A Reading and Conversation in Celebration of Daphne Marlatt (Doctor of Letters, honoris causa)",
-      "url": "https://events.ubc.ca/event/a-reading-and-conversation-in-celebration-of-daphne-marlatt-doctor-of-letters-honoris-causa/",
-      "start": "2026-05-21 17:00:00",
-      "end": "2026-05-21 18:30:00",
-      "all_day": false,
-      "cost": "",
-      "venue": "Buchanan Tower",
-      "city": "Vancouver",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/Untitled-design-1-1024x576.png",
-      "type": "Reunion",
-      "summary": "Please join the UBC Department of English Language & Literatures in celebrating Daphne Marlatt on the occasion of the awarding of an Honourary Degree (Doctor of Letters, honoris causa ). We are thrilled to be able to recognize the career of this distinguished poet, critic, public intellectual, and teacher with an intimate conversation and reading in BUTO. Let’s welcome this 1964 alumna home! Event: “ A Reading and Conversation in Celebration of Daphne Marlatt . ” May 21 from 5:00-6:15 (Buchanan…"
-    },
     {
       "id": 75409,
       "title": "UBC CPD: Rural POCUS Rounds: Intro to Nerve Blocks",
@@ -436,6 +422,34 @@
       "image": "https://events.ubc.ca/wp-content/uploads/2026/04/Event-Calendar-new-1024x576.png",
       "type": "Event",
       "summary": "This webinar invites health professionals in British Columbia to reflect on how cultural safety and anti-Indigenous racism intersect with everyday clinical practice. With a focus on practical application, the session explores how language, assumptions, and power dynamics can shape patient experiences—and how clinicians can take meaningful steps toward more respectful, patient-centered care for Indigenous patients and communities. Grounded in Canadian commitments to truth, reconciliation, and…"
+    },
+    {
+      "id": 10021511,
+      "title": "UBC Staff Toastmasters Club!",
+      "url": "https://events.ubc.ca/event/ubc-staff-toastmasters-club-6/2026-06-04/",
+      "start": "2026-06-04 12:00:00",
+      "end": "2026-06-04 12:50:00",
+      "all_day": false,
+      "cost": "",
+      "venue": "Hybrid Online/Virtual and In-Person &#8211; See Description",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/TM-image_UBC-events_resize-5-1024x576.jpg",
+      "type": "Event",
+      "summary": "Looking to improve your public speaking skills? Join our UBC Staff Toastmasters Meetup! If you’re looking to improve your communications and public speaking skills, boost your confidence, and connect with colleagues across campus, come to our next Toastmasters meeting. We gather every other Thursday from 12:00 to 12:50 pm via Zoom and in-person. Sign up today and kickstart your public speaking and leadership journey! Interested? Please contact Helen Luk at helen.luk@ubc.ca for more details.…"
+    },
+    {
+      "id": 10021177,
+      "title": "UBC Farm Community Workshops",
+      "url": "https://events.ubc.ca/event/ubc-farm-community-workshops/2026-06-04/",
+      "start": "2026-06-04 18:00:00",
+      "end": "2026-06-04 19:30:00",
+      "all_day": false,
+      "cost": "",
+      "venue": "UBC Farm",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/03/Spring-workshops-2026-1-mB-version-1024x576.jpg",
+      "type": "Workshop",
+      "summary": "The UBC Farm offers a robust lineup of 50+ workshops per year, on a wide range of topics, such as gardening, cooking, baking, food preservation, herbs, plant walks, foraging, and more. In our upcoming series, in addition to popular favorites, such as Sourdough Baking, Art of Cheese, and Spring Foraging, we also have several special offerings, including a “Growing In Small Spaces” Short Course , a series of Thursday evening gardening / growing workshops , Dim Sum & Live Jazz , and Weekly…"
     }
   ]
 }
