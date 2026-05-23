@@ -1,22 +1,8 @@
 {
-  "generated_at": "2026-05-22T15:47:20.509708+00:00",
+  "generated_at": "2026-05-23T14:27:53.933060+00:00",
   "window_days": 14,
   "count": 32,
   "events": [
-    {
-      "id": 75409,
-      "title": "UBC CPD: Rural POCUS Rounds: Intro to Nerve Blocks",
-      "url": "https://events.ubc.ca/event/ubc-cpd-rural-pocus-rounds-intro-to-nerve-blocks/",
-      "start": "2026-05-22 12:00:00",
-      "end": "2026-05-22 13:00:00",
-      "all_day": false,
-      "cost": "Free",
-      "venue": "Online/Virtual Event",
-      "city": "",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/02/Event-Calendar-new-6-2-2048x1152-1-1024x576.png",
-      "type": "Event",
-      "summary": "Join Dr. Claire Heslop on May 22, 2026, for a PoCUS session on Intro to Nerve Blocks. Rural POCUS Rounds supports rural healthcare professionals in building POCUS skills, confidence, and community through interactive, case-based learning delivered via Zoom. Participants also gain insight into additional training opportunities, as our presenters are highly engaged POCUS practitioners across British Columbia."
-    },
     {
       "id": 10021174,
       "title": "UBC Farm Community Workshops",
@@ -450,6 +436,20 @@
       "image": "https://events.ubc.ca/wp-content/uploads/2026/03/Spring-workshops-2026-1-mB-version-1024x576.jpg",
       "type": "Workshop",
       "summary": "The UBC Farm offers a robust lineup of 50+ workshops per year, on a wide range of topics, such as gardening, cooking, baking, food preservation, herbs, plant walks, foraging, and more. In our upcoming series, in addition to popular favorites, such as Sourdough Baking, Art of Cheese, and Spring Foraging, we also have several special offerings, including a “Growing In Small Spaces” Short Course , a series of Thursday evening gardening / growing workshops , Dim Sum & Live Jazz , and Weekly…"
+    },
+    {
+      "id": 10021322,
+      "title": "UBC CPD: CME on the Run! 2025-2026",
+      "url": "https://events.ubc.ca/event/ubc-cpd-cme-on-the-run-2025-2026-2/2026-06-05/",
+      "start": "2026-06-05 13:00:00",
+      "end": "2026-06-05 17:00:00",
+      "all_day": false,
+      "cost": "Cost Varies.",
+      "venue": "Online/Virtual Event",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/Event-Calendar-new-5-1024x576.png",
+      "type": "Event",
+      "summary": "CME on the Run! 2025-2026 is an award-winning program, brought together by the UBC Department of Family Practice and UBC CPD. With over 800 participants last year, this popular conference series provides short and focused sessions for health professionals. Renowned speakers will address topics relevant to family medicine and share best practices and innovative approaches to patient care, enabling participants to improve the quality and efficiency of their clinical practice. Sessions run…"
     }
   ]
 }
