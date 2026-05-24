@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-23T14:27:53.933060+00:00",
+  "generated_at": "2026-05-24T14:22:50.906949+00:00",
   "window_days": 14,
-  "count": 32,
+  "count": 34,
   "events": [
     {
       "id": 10021174,
@@ -450,6 +450,34 @@
       "image": "https://events.ubc.ca/wp-content/uploads/2026/04/Event-Calendar-new-5-1024x576.png",
       "type": "Event",
       "summary": "CME on the Run! 2025-2026 is an award-winning program, brought together by the UBC Department of Family Practice and UBC CPD. With over 800 participants last year, this popular conference series provides short and focused sessions for health professionals. Renowned speakers will address topics relevant to family medicine and share best practices and innovative approaches to patient care, enabling participants to improve the quality and efficiency of their clinical practice. Sessions run…"
+    },
+    {
+      "id": 76665,
+      "title": "UBC CPD: The BC Obesity Society Presents Obesity Care in 2026: Practical, Precise, and Primary Care–Focused",
+      "url": "https://events.ubc.ca/event/ubc-cpd-the-bc-obesity-society-presents-obesity-care-in-2026-practical-precise-and-primary-care-focused/",
+      "start": "2026-06-06 08:00:00",
+      "end": "2026-06-06 16:00:00",
+      "all_day": false,
+      "cost": "Cost Varies.",
+      "venue": "See Description",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/03/Event-Calendar-new-2-1-1024x576.png",
+      "type": "Event",
+      "summary": "Obesity management is evolving rapidly — and primary care is at the center of it. This comprehensive, start-to-finish conference equips primary care teams with the tools to diagnose obesity beyond BMI, apply effective behavioural strategies, prescribe emerging pharmacotherapy confidently, and navigate surgical pathways across British Columbia. From motivational interviewing and Dialectical Behavior Therapy (DBT) informed approaches to ADHD and perimenopause considerations, this program…"
+    },
+    {
+      "id": 76659,
+      "title": "UBC CPD: The BC Obesity Society Presents Obesity Care in 2026: Practical, Precise, and Primary Care–Focused",
+      "url": "https://events.ubc.ca/event/ubc-cpd-the-bc-obesity-society-presents-obesity-care-in-2026-practical-precise-and-primary-care-focused-2/",
+      "start": "2026-06-06 09:00:00",
+      "end": "2026-06-06 16:00:00",
+      "all_day": false,
+      "cost": "Cost Varies.",
+      "venue": "See Description",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/03/Event-Calendar-new-2-1024x576.png",
+      "type": "Event",
+      "summary": "Obesity management is evolving rapidly — and primary care is at the center of it. This comprehensive, start-to-finish conference equips primary care teams with the tools to diagnose obesity beyond BMI, apply effective behavioural strategies, prescribe emerging pharmacotherapy confidently, and navigate surgical pathways across British Columbia. From motivational interviewing and Dialectical Behavior Therapy (DBT) informed approaches to ADHD and perimenopause considerations, this program…"
     }
   ]
 }
