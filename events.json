@@ -1,36 +1,8 @@
 {
-  "generated_at": "2026-05-24T14:22:50.906949+00:00",
+  "generated_at": "2026-05-25T15:48:06.886408+00:00",
   "window_days": 14,
-  "count": 34,
+  "count": 32,
   "events": [
-    {
-      "id": 10021174,
-      "title": "UBC Farm Community Workshops",
-      "url": "https://events.ubc.ca/event/ubc-farm-community-workshops/2026-05-24/1/",
-      "start": "2026-05-24 09:30:00",
-      "end": "2026-05-24 12:30:00",
-      "all_day": false,
-      "cost": "",
-      "venue": "UBC Farm",
-      "city": "Vancouver",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/03/Spring-workshops-2026-1-mB-version-1024x576.jpg",
-      "type": "Workshop",
-      "summary": "The UBC Farm offers a robust lineup of 50+ workshops per year, on a wide range of topics, such as gardening, cooking, baking, food preservation, herbs, plant walks, foraging, and more. In our upcoming series, in addition to popular favorites, such as Sourdough Baking, Art of Cheese, and Spring Foraging, we also have several special offerings, including a “Growing In Small Spaces” Short Course , a series of Thursday evening gardening / growing workshops , Dim Sum & Live Jazz , and Weekly…"
-    },
-    {
-      "id": 10021175,
-      "title": "UBC Farm Community Workshops",
-      "url": "https://events.ubc.ca/event/ubc-farm-community-workshops/2026-05-24/2/",
-      "start": "2026-05-24 14:00:00",
-      "end": "2026-05-24 16:00:00",
-      "all_day": false,
-      "cost": "",
-      "venue": "UBC Farm",
-      "city": "Vancouver",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/03/Spring-workshops-2026-1-mB-version-1024x576.jpg",
-      "type": "Workshop",
-      "summary": "The UBC Farm offers a robust lineup of 50+ workshops per year, on a wide range of topics, such as gardening, cooking, baking, food preservation, herbs, plant walks, foraging, and more. In our upcoming series, in addition to popular favorites, such as Sourdough Baking, Art of Cheese, and Spring Foraging, we also have several special offerings, including a “Growing In Small Spaces” Short Course , a series of Thursday evening gardening / growing workshops , Dim Sum & Live Jazz , and Weekly…"
-    },
     {
       "id": 78569,
       "title": "When Temperature Matters: Extreme Heat and Maternal-Fetal Health",
