@@ -1,22 +1,8 @@
 {
-  "generated_at": "2026-05-25T15:48:06.886408+00:00",
+  "generated_at": "2026-05-26T16:39:46.897547+00:00",
   "window_days": 14,
   "count": 32,
   "events": [
-    {
-      "id": 78569,
-      "title": "When Temperature Matters: Extreme Heat and Maternal-Fetal Health",
-      "url": "https://events.ubc.ca/event/when-temperature-matters-extreme-heat-and-maternal-fetal-health/",
-      "start": "2026-05-26 08:00:00",
-      "end": "2026-05-26 09:00:00",
-      "all_day": false,
-      "cost": "Free",
-      "venue": "Online/Virtual Event",
-      "city": "",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/Heat-webinar-UBC-Events-1024x576.png",
-      "type": "Event",
-      "summary": "This webinar will focus on the health effects of extreme heat on pregnant people and fetuses across climates and contexts, as well as the frameworks clinicians can use to address heat risks. Presenter: Caroline Li-Maloney , MSc. PhD Candidate, Human and Environmental Physiology Research Unit (HEPRU) at the University of Ottawa. Register here ."
-    },
     {
       "id": 79158,
       "title": "Combating anti-Asian Racism and Xenophobia: Toward a Model of Pandemic Anti-racism Education in Post-Covid-19 Canada",
@@ -450,6 +436,20 @@
       "image": "https://events.ubc.ca/wp-content/uploads/2026/03/Event-Calendar-new-2-1024x576.png",
       "type": "Event",
       "summary": "Obesity management is evolving rapidly — and primary care is at the center of it. This comprehensive, start-to-finish conference equips primary care teams with the tools to diagnose obesity beyond BMI, apply effective behavioural strategies, prescribe emerging pharmacotherapy confidently, and navigate surgical pathways across British Columbia. From motivational interviewing and Dialectical Behavior Therapy (DBT) informed approaches to ADHD and perimenopause considerations, this program…"
+    },
+    {
+      "id": 77502,
+      "title": "Coffee Chat 101",
+      "url": "https://events.ubc.ca/event/coffee-chat-101-8/",
+      "start": "2026-06-08 11:00:00",
+      "end": "2026-06-08 12:00:00",
+      "all_day": false,
+      "cost": "",
+      "venue": "See Description",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/Workshop-Coffee-Chat-768x512.jpg",
+      "type": "Workshop",
+      "summary": "Coffee chats 101 – who to talk to, what to ask, what comes next? Coffee Chats (or “informational interviews”) are a great way to build your network and learn about your industry of interest. Join us for this workshop to learn who to ask, how to prepare, and what comes next."
     }
   ]
 }
