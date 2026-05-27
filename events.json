@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-26T16:39:46.897547+00:00",
+  "generated_at": "2026-05-27T16:35:00.849263+00:00",
   "window_days": 14,
-  "count": 32,
+  "count": 34,
   "events": [
     {
       "id": 79158,
@@ -312,6 +312,20 @@
       "summary": "Treasury Management: Inside the Corporate Finance Engine Hosted by AFP Vancouver – UBC Campus Chapter Launch Time: 5:30 pm to 7:00 pm Date: June 2nd Location: Bruce Birmingham Undergraduate Centre, UBC Sauder Corporate treasury teams manage billions in liquidity, capital, and financial risk — yet few students understand the scope of this function or the career opportunities it offers. Join the Association for Financial Professionals (AFP) Vancouver for the official launch of the UBC Campus…"
     },
     {
+      "id": 83136,
+      "title": "MEL Online Information Session",
+      "url": "https://events.ubc.ca/event/mel-online-information-session-11/",
+      "start": "2026-06-03 08:00:00",
+      "end": "2026-06-03 09:00:00",
+      "all_day": false,
+      "cost": "Free",
+      "venue": "Online/Virtual Event",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/06-JUN-MEL-Online-Session-Banner-1024x683.png",
+      "type": "Event",
+      "summary": "Ready to take your career to the next level? Attend our online information session to learn how the UBC Master of Engineering Leadership (MEL) program can help you build advanced technical skills, empowering you to make a meaningful impact in your profession. This information session is for engineers, architects and technical professionals who are looking to enhance their leadership capabilities, drive industry innovation, and advance their careers through a unique interdisciplinary graduate…"
+    },
+    {
       "id": 82832,
       "title": "Spring Kickoff",
       "url": "https://events.ubc.ca/event/spring-kickoff/",
@@ -450,6 +464,20 @@
       "image": "https://events.ubc.ca/wp-content/uploads/2026/04/Workshop-Coffee-Chat-768x512.jpg",
       "type": "Workshop",
       "summary": "Coffee chats 101 – who to talk to, what to ask, what comes next? Coffee Chats (or “informational interviews”) are a great way to build your network and learn about your industry of interest. Join us for this workshop to learn who to ask, how to prepare, and what comes next."
+    },
+    {
+      "id": 77873,
+      "title": "UBC Department of Medicine: 2026 Research Day",
+      "url": "https://events.ubc.ca/event/ubc-department-of-medicine-2026-research-day/",
+      "start": "2026-06-10 08:30:00",
+      "end": "2026-06-10 17:00:00",
+      "all_day": false,
+      "cost": "",
+      "venue": "UBC Robson Square",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/LG_2026-Research-Day-1024x576.png",
+      "type": "Conference",
+      "summary": "The UBC Department of Medicine Research Day brings together the 42nd Annual Resident Research Day and the 15th Annual Experimental Medicine Research Expo. Hosted by the Research Office, Postgraduate Medical Education Program, and Experimental Medicine Program, this annual event features cutting-edge research from our faculty, residents, and trainees through interactive poster sessions, oral presentations, and inspiring keynote talks. Celebrate the discoveries shaping the future of healthcare…"
     }
   ]
 }
