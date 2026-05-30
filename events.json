@@ -1,36 +1,8 @@
 {
-  "generated_at": "2026-05-29T16:40:43.117328+00:00",
+  "generated_at": "2026-05-30T14:26:57.138763+00:00",
   "window_days": 14,
-  "count": 30,
+  "count": 28,
   "events": [
-    {
-      "id": 10021479,
-      "title": "Indigenous Graduate Student Summer Writing Circle Series",
-      "url": "https://events.ubc.ca/event/indigenous-graduate-student-summer-writing-circle-series/2026-05-29/",
-      "start": "2026-05-29 09:00:00",
-      "end": "2026-05-29 12:00:00",
-      "all_day": false,
-      "cost": "Free",
-      "venue": "Online/Virtual Event",
-      "city": "",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/the-ams-student-nest_22478691704_o-1024x681.jpg",
-      "type": "Event",
-      "summary": "Join us for the Indigenous Summer Graduate Writing Circle series, an online space created for Indigenous graduate students to write in community. There are four sessions in the series to take part in: Friday, May 29, 9 AM – 12 PM PDT Thursday, June 25, 1– 4 PM PDT Friday, July 24, 9 AM – 12 PM PDT Thursday, August 27, 1– 4 PM PDT Whether you’re working on a thesis, course paper, dissertation, or creative project, you’re welcome to come as you are and write at your own pace. Facilitator Anik…"
-    },
-    {
-      "id": 77498,
-      "title": "Job Search Strategies",
-      "url": "https://events.ubc.ca/event/job-search-strategies-13/",
-      "start": "2026-05-29 13:00:00",
-      "end": "2026-05-29 14:00:00",
-      "all_day": false,
-      "cost": "",
-      "venue": "See Description",
-      "city": "",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/Workshop-Job-Search-Strategies-1024x683.jpg",
-      "type": "Workshop",
-      "summary": "Learn the best ways to look for work online and in-person, and decide which strategies will help you to access the hidden job market."
-    },
     {
       "id": 10020085,
       "title": "UBC CPD: Implants and IUDs: Comparing and Inserting Long Acting Reversible Contraceptives (LARC)",
