@@ -1,64 +1,8 @@
 {
-  "generated_at": "2026-06-01T18:35:57.488089+00:00",
+  "generated_at": "2026-06-02T17:20:11.963147+00:00",
   "window_days": 14,
-  "count": 25,
+  "count": 22,
   "events": [
-    {
-      "id": 79066,
-      "title": "NeuroFuture: Conversations on Women Advancing Neuroscience Worldwide (Brain, Technology, and Ethics)",
-      "url": "https://events.ubc.ca/event/neurofuture-conversations-on-women-advancing-neuroscience-worldwide-brain-technology-and-ethics/",
-      "start": "2026-06-01 12:00:00",
-      "end": "2026-06-01 13:30:00",
-      "all_day": false,
-      "cost": "Free",
-      "venue": "See Description",
-      "city": "",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/IBI-WWN-UBC-Events-1024x576.png",
-      "type": "Lecture",
-      "summary": "Join us for the second session of NeuroFuture: Conversations on Women Advancing Neuroscience Worldwide as we advance the dialogue on the intersections of neuroscience, emerging technologies, and ethical considerations on current developments and future implications. Everyone is welcome! Register here for free to receive the webinar details: https://www.internationalbraininitiative.org/events/neurofutureconversations2026 FEATURED SPEAKERS Jennifer A. Chandler, LLM, FCAHS , University of Ottawa,…"
-    },
-    {
-      "id": 79118,
-      "title": "UBC CPD: Crossing the Placenta: Integrating New Evidence Into Everyday Maternity Care",
-      "url": "https://events.ubc.ca/event/ubc-cpd-crossing-the-placenta-integrating-new-evidence-into-everyday-maternity-care/",
-      "start": "2026-06-01 18:30:00",
-      "end": "2026-06-01 20:00:00",
-      "all_day": false,
-      "cost": "Free",
-      "venue": "Online/Virtual Event",
-      "city": "",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/Event-Calendar-new-7-1024x576.png",
-      "type": "Event",
-      "summary": "Stay current with key updates in maternity care. In partnership with the Perinatal Community of Practice, we’re pleased to offer this webinar reviewing recent updates in maternity care, including gestational diabetes, intrahepatic cholestasis of pregnancy and umbilical cord management."
-    },
-    {
-      "id": 83118,
-      "title": "Thinking Beyond the Market: The Path to Genuinely Affordable Housing",
-      "url": "https://events.ubc.ca/event/thinking-beyond-the-market/",
-      "start": "2026-06-01 18:30:00",
-      "end": "2026-06-01 21:00:00",
-      "all_day": false,
-      "cost": "",
-      "venue": "UBC Robson Square",
-      "city": "Vancouver",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/Connects_Robson_Square_Thinking_Beyond_The_Market_72x444-768x442.jpg",
-      "type": "Lecture",
-      "summary": "Thinking Beyond the Market: The Path to Genuinely Affordable Housing June 1, 2026 6:30 pm – 9:00 pm at UBC Robson Square ( map ) RSVP Everyone’s talking about housing affordability. But are we asking the right questions? How can national housing research be translated into local, livable reality? Join UBC Connects at Robson Square for a screening of Thinking Beyond the Market, a film by Dr. Brian Doucet that uncovers “hiding in plain sight” housing solutions across Canada. From non-market…"
-    },
-    {
-      "id": 79169,
-      "title": "PREVENT-AMR Symposium",
-      "url": "https://events.ubc.ca/event/prevent-amr-symposium/",
-      "start": "2026-06-02 00:00:00",
-      "end": "2026-06-02 23:59:59",
-      "all_day": true,
-      "cost": "Free",
-      "venue": "BC Children&#8217;s Hospital Research Institute",
-      "city": "Vancouver",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/UBC-events-1280x720-1-1024x576.png",
-      "type": "Event",
-      "summary": "The PREVENT-AMR Symposium will bring together researchers across BC, alongside clinicians and trainees, to share the latest developments and foster collaboration in antimicrobial resistance (AMR) and One Health initiatives. The symposium will feature keynote speakers, trainee presentations, interactive discussions and networking opportunities. Call for Abstracts Trainees are invited to submit abstracts on all topics relevant to antimicrobial resistance research across any of the One Health…"
-    },
     {
       "id": 78513,
       "title": "Michif Language, its revitalization, and implications for the Metis Nation with Reid Hala",
@@ -111,7 +55,7 @@
       "cost": "Free",
       "venue": "UBC Bookstore",
       "city": "Vancouver",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/spring-kickoff-1-1024x576.jpg",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/spring-kickoff-1-e1780420328739-1024x690.jpg",
       "type": "Event",
       "summary": "Don’t miss the season’s first foodie event on campus and the opening day of the UBC Farm Wednesday Market at the Bookstore Plaza. Year of the Woman Farmer Panel – 11:30am – 12:00pm This year we’re celebrating International Year of the Woman Farmer with a panel of of women in agriculture. Come hear about their experiences supporting our food system. Cooking Demo + Samples – 12:00pm – 1:00pm Join Chef Amanda Réhel for a delicious cooking demo and sampling event. On the menu this year is a Spinach…"
     },
@@ -352,6 +296,20 @@
       "image": "https://events.ubc.ca/wp-content/uploads/2026/03/Spring-workshops-2026-1-mB-version-1024x576.jpg",
       "type": "Workshop",
       "summary": "The UBC Farm offers a robust lineup of 50+ workshops per year, on a wide range of topics, such as gardening, cooking, baking, food preservation, herbs, plant walks, foraging, and more. In our upcoming series, in addition to popular favorites, such as Sourdough Baking, Art of Cheese, and Spring Foraging, we also have several special offerings, including a “Growing In Small Spaces” Short Course , a series of Thursday evening gardening / growing workshops , Dim Sum & Live Jazz , and Weekly…"
+    },
+    {
+      "id": 83521,
+      "title": "Protecting Your Research, Part II: Cybersecurity Hygiene",
+      "url": "https://events.ubc.ca/event/protecting-your-research-part-ii-cybersecurity-hygiene/",
+      "start": "2026-06-15 11:00:00",
+      "end": "2026-06-15 12:00:00",
+      "all_day": false,
+      "cost": "Free",
+      "venue": "Online/Virtual Event",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/people-with-laptops_1280x720-1024x576.jpg",
+      "type": "Seminar",
+      "summary": "Following our previous webinar led by UBC’s Advanced Research Computing (ARC) Research Cybersecurity and Compliance team, this session will take a deeper dive into practical cybersecurity hygiene. Through institutional-policy-agnostic and practical suggestions, learn more about what you can do to protect yourself and your team within and outside the work environment. Participants are encouraged to bring questions about their own specific use cases."
     }
   ]
 }
