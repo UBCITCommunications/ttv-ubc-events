@@ -1,64 +1,8 @@
 {
-  "generated_at": "2026-06-03T17:58:39.578108+00:00",
+  "generated_at": "2026-06-04T16:19:20.881289+00:00",
   "window_days": 14,
-  "count": 18,
+  "count": 17,
   "events": [
-    {
-      "id": 82832,
-      "title": "Spring Kickoff",
-      "url": "https://events.ubc.ca/event/spring-kickoff/",
-      "start": "2026-06-03 11:30:00",
-      "end": "2026-06-03 13:00:00",
-      "all_day": false,
-      "cost": "Free",
-      "venue": "UBC Bookstore",
-      "city": "Vancouver",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/spring-kickoff-1-e1780420328739-1024x690.jpg",
-      "type": "Event",
-      "summary": "Don’t miss the season’s first foodie event on campus and the opening day of the UBC Farm Wednesday Market at the Bookstore Plaza. Year of the Woman Farmer Panel – 11:30am – 12:00pm This year we’re celebrating International Year of the Woman Farmer with a panel of of women in agriculture. Come hear about their experiences supporting our food system. Cooking Demo + Samples – 12:00pm – 1:00pm Join Chef Amanda Réhel for a delicious cooking demo and sampling event. On the menu this year is a Spinach…"
-    },
-    {
-      "id": 10021267,
-      "title": "Chung | Lind Gallery Weekly Drop-In Tour",
-      "url": "https://events.ubc.ca/event/chung-lind-gallery-weekly-drop-in-tour/2026-06-03/",
-      "start": "2026-06-03 13:30:00",
-      "end": "2026-06-03 14:30:00",
-      "all_day": false,
-      "cost": "Free",
-      "venue": "Irving K. Barber Learning Centre",
-      "city": "Vancouver",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/UBCLibrary_GalleryTours_Mar2026_digitalsignage_1280x720_notext2-1024x576.jpg",
-      "type": "Exhibit",
-      "summary": "Join us at our weekly drop-in tour through the Chung | Lind Gallery every Wednesday at 1:30 p.m. PT. Led by Rare Books and Special Collections and the University Archives archivists, tours can take up to 60 minutes and begin in the Gallery foyer. Located on Level 2 of the Irving K. Barber Learning Centre, the Gallery is free and open to the public. Drop-in tours offer visitors a chance to explore the histories represented in these collections, ask questions, and consider the ongoing…"
-    },
-    {
-      "id": 78816,
-      "title": "UBC Pride Connect reception",
-      "url": "https://events.ubc.ca/event/ubc-pride-connect-reception/",
-      "start": "2026-06-03 15:00:00",
-      "end": "2026-06-03 17:30:00",
-      "all_day": false,
-      "cost": "",
-      "venue": "Robert H. Lee Alumni Centre",
-      "city": "Vancouver",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/events-calendar-1280-x-720-1024x576.jpg",
-      "type": "Event",
-      "summary": "Join the UBC Pride Connect reception to (re)connect with other members of the 2SLGBTQIA+ community. UBC faculty, staff and postdoctoral fellows who identify with the 2SLGBTQIA+ community are welcome. What to expect Celebrate Pride Month in community Connect with other faculty and staff members of the 2SLGBTQIA+ communities at UBC Enjoy refreshments, including a complimentary drink ticket Enter for a chance to win a prize Host Fred Lee , Sr. Director, Alumni Engagement, alumni UBC, & DAE…"
-    },
-    {
-      "id": 78188,
-      "title": "UBC CPD: Speaking with Care: Culturally Safe Language in Medicine",
-      "url": "https://events.ubc.ca/event/ubc-cpd-speaking-with-care-culturally-safe-language-in-medicine/",
-      "start": "2026-06-03 18:00:00",
-      "end": "2026-06-03 19:30:00",
-      "all_day": false,
-      "cost": "Free",
-      "venue": "Online/Virtual Event",
-      "city": "",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/Event-Calendar-new-1024x576.png",
-      "type": "Event",
-      "summary": "This webinar invites health professionals in British Columbia to reflect on how cultural safety and anti-Indigenous racism intersect with everyday clinical practice. With a focus on practical application, the session explores how language, assumptions, and power dynamics can shape patient experiences—and how clinicians can take meaningful steps toward more respectful, patient-centered care for Indigenous patients and communities. Grounded in Canadian commitments to truth, reconciliation, and…"
-    },
     {
       "id": 10021511,
       "title": "UBC Staff Toastmasters Club!",
@@ -254,6 +198,48 @@
       "image": "https://events.ubc.ca/wp-content/uploads/2026/05/people-with-laptops_1280x720-1024x576.jpg",
       "type": "Seminar",
       "summary": "Following our previous webinar led by UBC’s Advanced Research Computing (ARC) Research Cybersecurity and Compliance team, this session will take a deeper dive into practical cybersecurity hygiene. Through institutional-policy-agnostic and practical suggestions, learn more about what you can do to protect yourself and your team within and outside the work environment. Participants are encouraged to bring questions about their own specific use cases."
+    },
+    {
+      "id": 10021269,
+      "title": "Chung | Lind Gallery Weekly Drop-In Tour",
+      "url": "https://events.ubc.ca/event/chung-lind-gallery-weekly-drop-in-tour/2026-06-17/",
+      "start": "2026-06-17 13:30:00",
+      "end": "2026-06-17 14:30:00",
+      "all_day": false,
+      "cost": "Free",
+      "venue": "Irving K. Barber Learning Centre",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/UBCLibrary_GalleryTours_Mar2026_digitalsignage_1280x720_notext2-1024x576.jpg",
+      "type": "Exhibit",
+      "summary": "Join us at our weekly drop-in tour through the Chung | Lind Gallery every Wednesday at 1:30 p.m. PT. Led by Rare Books and Special Collections and the University Archives archivists, tours can take up to 60 minutes and begin in the Gallery foyer. Located on Level 2 of the Irving K. Barber Learning Centre, the Gallery is free and open to the public. Drop-in tours offer visitors a chance to explore the histories represented in these collections, ask questions, and consider the ongoing…"
+    },
+    {
+      "id": 78983,
+      "title": "Financial Fundamentals for New Students &#8211; Domestic Undergrad (In-Person)",
+      "url": "https://events.ubc.ca/event/financial-fundamentals-for-new-students-domestic-undergrad-in-person/",
+      "start": "2026-06-17 17:30:00",
+      "end": "2026-06-17 18:30:00",
+      "all_day": false,
+      "cost": "",
+      "venue": "UBC Life Building (Old SUB)",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/Unsplash_finances-1024x819.jpg",
+      "type": "Event",
+      "summary": "Register here: https://ubc.ca1.qualtrics.com/jfe/form/SV_6PVpEKr8YPuUFtI Starting university comes with new financial responsibilities. Join us for an in-person workshop designed to help newly admitted domestic undergraduate students at the UBC Vancouver campus navigate their finances. In this session, you’ll learn how to: Create a financial plan that works for your priorities Understand student loans and bursaries Build a realistic budget Learn about resources available to you, including your…"
+    },
+    {
+      "id": 78808,
+      "title": "UBC CPD: FPON Webinar: Adolescents and Young Adults with Cancer: Unique Needs and Practical Resources",
+      "url": "https://events.ubc.ca/event/ubc-cpd-fpon-webinar-adolescents-and-young-adults-with-cancer-unique-needs-and-practical-resources/",
+      "start": "2026-06-18 08:00:00",
+      "end": "2026-06-18 09:00:00",
+      "all_day": false,
+      "cost": "Free",
+      "venue": "Online/Virtual Event",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/Event-Calendar-new-1-1-1024x576.png",
+      "type": "Event",
+      "summary": "Join us for the next talk in the Family Practice Oncology Network (FPON) Webinar Series, Adolescents and Young Adults with Cancer: Unique Needs and Practical Resources , with Dr. Cheryl Heykoop, Dr. Alannah Smrke, and Dr. Kristin Marr."
     }
   ]
 }
