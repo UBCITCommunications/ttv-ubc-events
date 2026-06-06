@@ -1,22 +1,8 @@
 {
-  "generated_at": "2026-06-05T15:51:02.944582+00:00",
+  "generated_at": "2026-06-06T14:28:00.456193+00:00",
   "window_days": 14,
-  "count": 18,
+  "count": 19,
   "events": [
-    {
-      "id": 10021322,
-      "title": "UBC CPD: CME on the Run! 2025-2026",
-      "url": "https://events.ubc.ca/event/ubc-cpd-cme-on-the-run-2025-2026-2/2026-06-05/",
-      "start": "2026-06-05 13:00:00",
-      "end": "2026-06-05 17:00:00",
-      "all_day": false,
-      "cost": "Cost Varies.",
-      "venue": "Online/Virtual Event",
-      "city": "",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/Event-Calendar-new-5-1024x576.png",
-      "type": "Event",
-      "summary": "CME on the Run! 2025-2026 is an award-winning program, brought together by the UBC Department of Family Practice and UBC CPD. With over 800 participants last year, this popular conference series provides short and focused sessions for health professionals. Renowned speakers will address topics relevant to family medicine and share best practices and innovative approaches to patient care, enabling participants to improve the quality and efficiency of their clinical practice. Sessions run…"
-    },
     {
       "id": 76665,
       "title": "UBC CPD: The BC Obesity Society Presents Obesity Care in 2026: Practical, Precise, and Primary Care–Focused",
@@ -254,6 +240,34 @@
       "image": "https://events.ubc.ca/wp-content/uploads/2026/04/06-18-26-Meditation-scaled-e1776098446264-1024x577.jpg",
       "type": "Workshop",
       "summary": "This workshop weaves together the theory and science of meditation — exploring its profound benefits for wellbeing — with an understanding of how meditative practice can serve as a bridge toward unity and oneness with all life. The majority of the session will be devoted to guided meditation and visualization practices, inviting participants into a deeper experience of the interconnection between humanity and the broader family of life. Dr. Farah Shroff has practiced meditation throughout her…"
+    },
+    {
+      "id": 75417,
+      "title": "UBC CPD: Rural POCUS Rounds: Nerve Blocks for Forearm",
+      "url": "https://events.ubc.ca/event/ubc-cpd-rural-pocus-rounds-nerve-blocks-for-forearm/",
+      "start": "2026-06-19 12:00:00",
+      "end": "2026-06-19 13:00:00",
+      "all_day": false,
+      "cost": "Free",
+      "venue": "Online/Virtual Event",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/02/Event-Calendar-new-6-2-2048x1152-2-1024x576.png",
+      "type": "Event",
+      "summary": "Join Dr. Jonathan Wallace on June 19, 2026, for a PoCUS session on Nerve Blocks for Forearm. Rural POCUS Rounds supports rural healthcare professionals in building POCUS skills, confidence, and community through interactive, case-based learning delivered via Zoom. Participants also gain insight into additional training opportunities, as our presenters are highly engaged POCUS practitioners across British Columbia."
+    },
+    {
+      "id": 10019047,
+      "title": "Natalia Lafourcade – The Cancionera Tour",
+      "url": "https://events.ubc.ca/event/natalia-lafourcade-the-cancionera-tour/2026-06-19/",
+      "start": "2026-06-19 19:30:00",
+      "end": "2026-06-19 21:00:00",
+      "all_day": false,
+      "cost": "",
+      "venue": "Chan Centre for the Performing Arts",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2025/10/Natalia-1024x576.png",
+      "type": "Concert",
+      "summary": "Natalia Lafourcade, one of the most influential voices in Latin music, brings her Cancionera Tour to Vancouver’s Chan Centre. Making her Vancouver debut, she will perform with just her guitar and voice. Born in Mexico City, she has spent over two decades reimagining Latin American music, invigorating its heritage with her modern touch. Declared the “21st Century’s Guardian of Cultural Memory” by NPR , her work weaves Mexican folklore with pop and jazz, and is held up as a “testament to the…"
     }
   ]
 }
