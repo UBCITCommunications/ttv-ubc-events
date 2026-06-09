@@ -1,22 +1,8 @@
 {
-  "generated_at": "2026-06-08T16:46:40.445311+00:00",
+  "generated_at": "2026-06-09T15:52:46.690700+00:00",
   "window_days": 14,
-  "count": 19,
+  "count": 18,
   "events": [
-    {
-      "id": 77502,
-      "title": "Coffee Chat 101",
-      "url": "https://events.ubc.ca/event/coffee-chat-101-8/",
-      "start": "2026-06-08 11:00:00",
-      "end": "2026-06-08 12:00:00",
-      "all_day": false,
-      "cost": "",
-      "venue": "See Description",
-      "city": "",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/Workshop-Coffee-Chat-768x512.jpg",
-      "type": "Workshop",
-      "summary": "Coffee chats 101 – who to talk to, what to ask, what comes next? Coffee Chats (or “informational interviews”) are a great way to build your network and learn about your industry of interest. Join us for this workshop to learn who to ask, how to prepare, and what comes next."
-    },
     {
       "id": 83570,
       "title": "Building healthy habits in youth sport",
