@@ -1,22 +1,8 @@
 {
-  "generated_at": "2026-06-09T15:52:46.690700+00:00",
+  "generated_at": "2026-06-10T16:33:27.550853+00:00",
   "window_days": 14,
   "count": 18,
   "events": [
-    {
-      "id": 83570,
-      "title": "Building healthy habits in youth sport",
-      "url": "https://events.ubc.ca/event/building-healthy-habits-in-youth-sport/",
-      "start": "2026-06-09 12:00:00",
-      "end": "2026-06-09 13:00:00",
-      "all_day": false,
-      "cost": "Free",
-      "venue": "Online/Virtual Event",
-      "city": "",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/YouthSports-1200x628-1-1024x537.jpg",
-      "type": "Event",
-      "summary": "As advice about developing young athletes abounds, what should we listen to—and what should we ignore? How can adults create a positive environment for children in youth sports? At this informative session, UBC experts will discuss how young athletes can build a healthy approach to physical activity. Gain practical guidance on how you can help foster a lifelong relationship with sport."
-    },
     {
       "id": 83218,
       "title": "Phishing Prevention Workshop",
@@ -254,6 +240,20 @@
       "image": "https://events.ubc.ca/wp-content/uploads/2025/10/Natalia-1024x576.png",
       "type": "Concert",
       "summary": "Natalia Lafourcade, one of the most influential voices in Latin music, brings her Cancionera Tour to Vancouver’s Chan Centre. Making her Vancouver debut, she will perform with just her guitar and voice. Born in Mexico City, she has spent over two decades reimagining Latin American music, invigorating its heritage with her modern touch. Declared the “21st Century’s Guardian of Cultural Memory” by NPR , her work weaves Mexican folklore with pop and jazz, and is held up as a “testament to the…"
+    },
+    {
+      "id": 77510,
+      "title": "Labour Market Information",
+      "url": "https://events.ubc.ca/event/labour-market-information-9/",
+      "start": "2026-06-23 11:00:00",
+      "end": "2026-06-23 12:00:00",
+      "all_day": false,
+      "cost": "",
+      "venue": "See Description",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/Workshop-Understanding-the-Labour-Market-1024x512.jpg",
+      "type": "Workshop",
+      "summary": "You need data to make good decisions – but where do you find it? Learn which tools track growing industries, search by in-demand skills, and research which roles relate to the knowledge and skills you developed during your degree."
     }
   ]
 }
