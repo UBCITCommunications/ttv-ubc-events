@@ -1,78 +1,8 @@
 {
-  "generated_at": "2026-06-10T16:33:27.550853+00:00",
+  "generated_at": "2026-06-11T16:51:56.712845+00:00",
   "window_days": 14,
-  "count": 18,
+  "count": 15,
   "events": [
-    {
-      "id": 83218,
-      "title": "Phishing Prevention Workshop",
-      "url": "https://events.ubc.ca/event/phishing-prevention-workshop/",
-      "start": "2026-06-10 11:00:00",
-      "end": "2026-06-10 11:30:00",
-      "all_day": false,
-      "cost": "Free",
-      "venue": "Online/Virtual Event",
-      "city": "",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/Phishing-Workshop-1920-x-1080-1-1024x576.png",
-      "type": "Workshop",
-      "summary": "Strengthen your cyber defenses! In today’s fast‑changing digital world, phishing continues to be one of the leading causes of cybersecurity breaches. Staying informed about the latest phishing techniques targeting the UBC community is essential for protecting personal and university data. Join a Privacy Matters @ UBC Phishing Prevention Workshop to: Learn how to spot red flags and suspicious sender behavior See recent phishing emails that have targeted members of the UBC community Build…"
-    },
-    {
-      "id": 10021268,
-      "title": "Chung | Lind Gallery Weekly Drop-In Tour",
-      "url": "https://events.ubc.ca/event/chung-lind-gallery-weekly-drop-in-tour/2026-06-10/",
-      "start": "2026-06-10 13:30:00",
-      "end": "2026-06-10 14:30:00",
-      "all_day": false,
-      "cost": "Free",
-      "venue": "Irving K. Barber Learning Centre",
-      "city": "Vancouver",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/UBCLibrary_GalleryTours_Mar2026_digitalsignage_1280x720_notext2-1024x576.jpg",
-      "type": "Exhibit",
-      "summary": "Join us at our weekly drop-in tour through the Chung | Lind Gallery every Wednesday at 1:30 p.m. PT. Led by Rare Books and Special Collections and the University Archives archivists, tours can take up to 60 minutes and begin in the Gallery foyer. Located on Level 2 of the Irving K. Barber Learning Centre, the Gallery is free and open to the public. Drop-in tours offer visitors a chance to explore the histories represented in these collections, ask questions, and consider the ongoing…"
-    },
-    {
-      "id": 78987,
-      "title": "Financial Fundamentals for New Students – Domestic Undergrad (Webinar)",
-      "url": "https://events.ubc.ca/event/financial-fundamentals-for-new-students-domestic-undergrad-webinar/",
-      "start": "2026-06-10 15:00:00",
-      "end": "2026-06-10 16:00:00",
-      "all_day": false,
-      "cost": "",
-      "venue": "Online/Virtual Event",
-      "city": "",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/Unsplash_finances-1-1024x819.jpg",
-      "type": "Event",
-      "summary": "Register here: https://ubc.ca1.qualtrics.com/jfe/form/SV_78KUYQJJxDrydZs Starting university comes with new financial responsibilities. Join us for this online workshop designed to help newly admitted domestic undergraduate students at the UBC Vancouver campus navigate their finances. In this session, you’ll learn how to: Create a financial plan that works for your priorities Understand student loans and bursaries Build a realistic budget Learn about resources available to you, including your…"
-    },
-    {
-      "id": 82763,
-      "title": "Soccer in the Square",
-      "url": "https://events.ubc.ca/event/soccer-in-the-square/",
-      "start": "2026-06-11 00:00:00",
-      "end": "2026-07-19 23:59:59",
-      "all_day": true,
-      "cost": "Free",
-      "venue": "Wesbrook Village",
-      "city": "Vancouver",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/Untitled-design-1024x576.png",
-      "type": "Festival",
-      "summary": "Join us to see the biggest soccer games of 2026 in the heart of Wesbrook Village from June 11 to July 19! &#x26bd;&#xfe0f; Get ready to cheer your favourite teams from around the globe at this free community event series! Bring your friends and family, grab a bite at a local restaurant, and enjoy the atmosphere. Between games, there will be family movies on the big screen. All event schedules are available on the Live at UBC events calendar . Important note: There will be a few chairs in the…"
-    },
-    {
-      "id": 76526,
-      "title": "UBC CPD: Rural Rounds: Rural Pediatric Airway Emergencies",
-      "url": "https://events.ubc.ca/event/ubc-cpd-rural-rounds-rural-pediatric-airway-emergencies/",
-      "start": "2026-06-11 07:45:00",
-      "end": "2026-06-11 09:00:00",
-      "all_day": false,
-      "cost": "Free",
-      "venue": "Online/Virtual Event",
-      "city": "",
-      "image": "https://events.ubc.ca/wp-content/uploads/2026/03/Event-Calendar-new-4-2048x1152-1-1024x576.png",
-      "type": "Event",
-      "summary": "Rural Rounds presentations are tailored specifically for the unique practice context of rural healthcare providers. Sessions feature relevant topics, exemplative case studies and an opportunity to connect with fellow rural providers. If you practice in or support rural communities in British Columbia, we would love to have you join the Rural Rounds community! Format: Rural Rounds is delivered via Zoom in a webinar-style format. Speaker(s), moderator and presentation slides will be visible on…"
-    },
     {
       "id": 10021178,
       "title": "UBC Farm Community Workshops",
@@ -254,6 +184,34 @@
       "image": "https://events.ubc.ca/wp-content/uploads/2026/04/Workshop-Understanding-the-Labour-Market-1024x512.jpg",
       "type": "Workshop",
       "summary": "You need data to make good decisions – but where do you find it? Learn which tools track growing industries, search by in-demand skills, and research which roles relate to the knowledge and skills you developed during your degree."
+    },
+    {
+      "id": 10021270,
+      "title": "Chung | Lind Gallery Weekly Drop-In Tour",
+      "url": "https://events.ubc.ca/event/chung-lind-gallery-weekly-drop-in-tour/2026-06-24/",
+      "start": "2026-06-24 13:30:00",
+      "end": "2026-06-24 14:30:00",
+      "all_day": false,
+      "cost": "Free",
+      "venue": "Irving K. Barber Learning Centre",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/04/UBCLibrary_GalleryTours_Mar2026_digitalsignage_1280x720_notext2-1024x576.jpg",
+      "type": "Exhibit",
+      "summary": "Join us at our weekly drop-in tour through the Chung | Lind Gallery every Wednesday at 1:30 p.m. PT. Led by Rare Books and Special Collections and the University Archives archivists, tours can take up to 60 minutes and begin in the Gallery foyer. Located on Level 2 of the Irving K. Barber Learning Centre, the Gallery is free and open to the public. Drop-in tours offer visitors a chance to explore the histories represented in these collections, ask questions, and consider the ongoing…"
+    },
+    {
+      "id": 10018272,
+      "title": "UBC CPD: Clinically Speaking: NP Webinar Series",
+      "url": "https://events.ubc.ca/event/ubc-cpd-clinically-speaking-np-webinar-series/2026-06-24/",
+      "start": "2026-06-24 18:00:00",
+      "end": "2026-06-24 19:30:00",
+      "all_day": false,
+      "cost": "Cost Varies.",
+      "venue": "See Description",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2025/08/Event-Calendar-new-1024x576.png",
+      "type": "Event",
+      "summary": "We’re excited to reintroduce Clinically Speaking: NP Webinar Series, an educational series designed specifically for Nurse Practitioners (NPs) and primary care providers across British Columbia. Formerly known as Clinical Corners and now under the direction of UBC CPD, this long-standing series returns with a renewed focus, updated format, and a commitment to delivering timely, practice-ready content. These short, focused sessions offer practical, evidence-informed updates to support clinical…"
     }
   ]
 }
