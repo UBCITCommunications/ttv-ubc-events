@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-11T16:51:56.712845+00:00",
+  "generated_at": "2026-06-12T16:15:33.739889+00:00",
   "window_days": 14,
-  "count": 15,
+  "count": 17,
   "events": [
     {
       "id": 10021178,
@@ -212,6 +212,34 @@
       "image": "https://events.ubc.ca/wp-content/uploads/2025/08/Event-Calendar-new-1024x576.png",
       "type": "Event",
       "summary": "We’re excited to reintroduce Clinically Speaking: NP Webinar Series, an educational series designed specifically for Nurse Practitioners (NPs) and primary care providers across British Columbia. Formerly known as Clinical Corners and now under the direction of UBC CPD, this long-standing series returns with a renewed focus, updated format, and a commitment to delivering timely, practice-ready content. These short, focused sessions offer practical, evidence-informed updates to support clinical…"
+    },
+    {
+      "id": 10021480,
+      "title": "Indigenous Graduate Student Summer Writing Circle Series",
+      "url": "https://events.ubc.ca/event/indigenous-graduate-student-summer-writing-circle-series/2026-06-25/",
+      "start": "2026-06-25 13:00:00",
+      "end": "2026-06-25 16:00:00",
+      "all_day": false,
+      "cost": "Free",
+      "venue": "Online/Virtual Event",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/the-ams-student-nest_22478691704_o-1024x681.jpg",
+      "type": "Event",
+      "summary": "Join us for the Indigenous Summer Graduate Writing Circle series, an online space created for Indigenous graduate students to write in community. There are four sessions in the series to take part in: Friday, May 29, 9 AM – 12 PM PDT Thursday, June 25, 1– 4 PM PDT Friday, July 24, 9 AM – 12 PM PDT Thursday, August 27, 1– 4 PM PDT Whether you’re working on a thesis, course paper, dissertation, or creative project, you’re welcome to come as you are and write at your own pace. Facilitator Anik…"
+    },
+    {
+      "id": 83208,
+      "title": "UBC CPD: School Health Hubs: Advancing Collaborative Child and Youth Health Care in Schools",
+      "url": "https://events.ubc.ca/event/school-health-hubs-advancing-collaborative-child-and-youth-health-care-in-schools/",
+      "start": "2026-06-25 18:30:00",
+      "end": "2026-06-25 20:00:00",
+      "all_day": false,
+      "cost": "Free",
+      "venue": "Online/Virtual Event",
+      "city": "",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/05/UBC-Events-Calendar-School-Health-Hubs-Advancing-Collaborative-Child-and-Youth-Health-Care-in-Schools-1024x576.png",
+      "type": "Event",
+      "summary": "This session will highlight how integrating health services within school environments can enhance access to care, support prevention efforts, and improve outcomes for children and youth. The webinar features a panel of expert presenters, and attendees will have the chance to ask questions in real-time."
     }
   ]
 }
