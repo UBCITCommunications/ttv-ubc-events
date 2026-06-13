@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-12T16:15:33.739889+00:00",
+  "generated_at": "2026-06-13T14:58:07.002789+00:00",
   "window_days": 14,
-  "count": 17,
+  "count": 18,
   "events": [
     {
       "id": 10021178,
@@ -184,6 +184,20 @@
       "image": "https://events.ubc.ca/wp-content/uploads/2026/04/Workshop-Understanding-the-Labour-Market-1024x512.jpg",
       "type": "Workshop",
       "summary": "You need data to make good decisions – but where do you find it? Learn which tools track growing industries, search by in-demand skills, and research which roles relate to the knowledge and skills you developed during your degree."
+    },
+    {
+      "id": 84269,
+      "title": "Kuwentong Pauwi: Stories of Filipino Canadian Place-Making and Heritage",
+      "url": "https://events.ubc.ca/event/kuwentong-pauwi-stories-of-filipino-canadian-place-making-and-heritage/",
+      "start": "2026-06-23 18:30:00",
+      "end": "2026-06-23 21:00:00",
+      "all_day": false,
+      "cost": "",
+      "venue": "UBC Robson Square",
+      "city": "Vancouver",
+      "image": "https://events.ubc.ca/wp-content/uploads/2026/06/Connects_Robson_Square_Filipino_Heritage_72x444-768x442.jpg",
+      "type": "Lecture",
+      "summary": "Kuwentong Pauwi: Stories of Filipino Canadian Place-Making and Heritage June 23, 2026 6:30 pm – 9:00 pm at UBC Robson Square ( map ) RSVP City maps don’t show the whole story. Beneath the surface is a deeper tale of how everyday urban spaces—from local markets to neighborhood hubs—are the heart of a culture. Join UBC Connects at Robson Square for an evening of film, conversation, and community. We are proud to host a screening of Kuwentong Pauwi , a short documentary exploring belonging,…"
     },
     {
       "id": 10021270,
